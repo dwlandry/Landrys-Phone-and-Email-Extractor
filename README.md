@@ -1,4 +1,4 @@
-# Landrys-Phone-and-Email-Extractor
+# landrys-phone-and-email-extractor
 The purpose of this script is to extract unique phone numbers and email addresses from a csv, txt, xls, or xlsx file. 
 
 ## Usage

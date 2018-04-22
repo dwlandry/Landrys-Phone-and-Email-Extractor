@@ -1,1 +1,1 @@
-"N:\users\dwlandry\Anaconda3\python.exe" "N:\users\dwlandry\OneDrive\My Programming Projects\landrys-phone-and-email-extractor\extract-file-multidrop.py" %*
+"C:\<path to python>\python.exe" "N:\<path to script>\extract-file-multidrop.py" %*
